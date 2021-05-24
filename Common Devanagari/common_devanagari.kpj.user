@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\common_devanagari.kpj</path>
+    <file ID="id_1107e44fa61557cbada7ab82c5b6e024" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_3cb637052b163cc7b1666855a7ee7eae</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\common_devanagari.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_1107e44fa61557cbada7ab82c5b6e024</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\common_devanagari.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8f56dc78e89e3e08f5074ebff56e9617</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\common_devanagari.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_19d49fe5682bc77d9d83995e8df1496b</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\common_devanagari.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8144d8d6c59bb8688652ccd9223c7062</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\..\build\common_devanagari.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_47977d4a72b6aa2776ad94e4fd16098f</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\..\build\common_devanagari.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ba6db508738ae30a1c81d413b62400ae</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\..\build\common_devanagari.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>common_devanagari.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\common_devanagari.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>common_devanagari.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\Common Devanagari\source\common_devanagari.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>win_hindi.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>E:\Keyboards\Win_Hindi\win_hindi.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>common_devanagari.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\source\common_devanagari.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>common_devanagari.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\source\common_devanagari.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>win_hindi.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\win_hindi\source\win_hindi.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\User\Documents\Keyman Developer\Projects\common_devanagari\source\welcome.htm</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
